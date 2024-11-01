@@ -1,0 +1,19 @@
+.twinfield-invoices {
+	border-top: 1px solid #DFDFDF;
+}
+
+.twinfield-invoice {
+	background: #F8F8F8;
+
+	border-bottom: 1px solid #DFDFDF;
+
+	padding: 10px;
+}
+
+.twinfield-invoice-lines {
+	width: 100%;
+}
+
+.twinfield-invoice-lines th {
+	text-align: left;	
+}
